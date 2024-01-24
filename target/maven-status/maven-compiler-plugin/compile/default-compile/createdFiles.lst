@@ -1,0 +1,6 @@
+productcrudapp\controller\MainController.class
+productcrudapp\dao\ProductDao.class
+productcrudapp\model\Product.class
+productcrudapp\config\Appconfig.class
+productcrudapp\config\WebInit.class
+productcrudapp\controller\Sample.class
